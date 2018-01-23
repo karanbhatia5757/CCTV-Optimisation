@@ -1,4 +1,4 @@
-# CCTV-Optimisation
+# CCTV Footage -Optimisation
 This repository contains code for optimisation of CCTV clip in both size and duration.<br/> 
 The code is written in python and uses opencv library.<br/>
 The approach used is pretty simple. Most of the clip in a CCTV security camera is still with very less motion or changes.<br/>
